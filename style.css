@@ -1,0 +1,27 @@
+h1 {
+    background-color: black;
+    color: aliceblue;
+    text-align: left;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.cloud {
+    color: aqua;
+}
+
+.completeProjects{
+    background-color: rebeccapurple;
+    color: aliceblue;
+    text-align: center;
+    font-style: normal;
+    font-size: 30px;
+}
+
+h3 {
+    background-color: aquamarine;
+    color: black;
+    font-style: normal;
+    text-align: right;
+    text-decoration: underline;
+}
